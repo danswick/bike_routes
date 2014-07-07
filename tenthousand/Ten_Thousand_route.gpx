@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://ridewithgps.com/">
+  <metadata>
+    <name>Ten Thousand Full</name>
+    <link href="http://ridewithgps.com/routes/3537117">
+      <text>Ten Thousand Full</text>
+    </link>
+    <time>2013-10-15T20:28:12Z</time>
+  </metadata>
+  <rte>
+    <name>Ten Thousand Full</name>
+    <rtept lat="42.27261" lon="-89.65199">
+      <name>Generic</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="42.26845" lon="-89.65214000000003">
+      <name>Right</name>
+      <cmt>Turn right onto W Fairgrounds Rd</cmt>
+    </rtept>
+    <rtept lat="42.27215" lon="-89.66381000000001">
+      <name>Left</name>
+      <cmt>Turn left onto W Forest Rd</cmt>
+    </rtept>
+    <rtept lat="42.26880329999999" lon="-89.69448060000002">
+      <name>Straight</name>
+      <cmt>Continue onto S Van Brocklin Rd</cmt>
+    </rtept>
+    <rtept lat="42.2494678" lon="-89.71814599999999">
+      <name>Left</name>
+      <cmt>Turn left onto S Bolton Rd</cmt>
+    </rtept>
+    <rtept lat="42.2457708" lon="-89.72223580000002">
+      <name>Right</name>
+      <cmt>Turn right onto W Loran Rd</cmt>
+    </rtept>
+    <rtept lat="42.24626000000001" lon="-89.77665000000002">
+      <name>Right</name>
+      <cmt>Turn right onto S Mill Grove Rd</cmt>
+    </rtept>
+    <rtept lat="42.256260000000005" lon="-89.77340000000004">
+      <name>Left</name>
+      <cmt>Turn left onto W Block Rd</cmt>
+    </rtept>
+    <rtept lat="42.256510514451776" lon="-89.82593582356361">
+      <name>Right</name>
+      <cmt>Turn right onto Main St/Rt73 *busy*</cmt>
+    </rtept>
+    <rtept lat="42.2601" lon="-89.82609000000002">
+      <name>Left</name>
+      <cmt>Turn left onto W Walgren Rd</cmt>
+    </rtept>
+    <rtept lat="42.25999" lon="-89.84571">
+      <name>Right</name>
+      <cmt>Turn right onto S Lott Rd</cmt>
+    </rtept>
+    <rtept lat="42.263630000000006" lon="-89.84600999999998">
+      <name>Left</name>
+      <cmt>Turn left onto W Walgren Rd</cmt>
+    </rtept>
+    <rtept lat="42.26352005728616" lon="-89.86168116361068">
+      <name>Left</name>
+      <cmt>Turn left onto S Koch Rd</cmt>
+    </rtept>
+    <rtept lat="42.2548" lon="-89.86156">
+      <name>Right</name>
+      <cmt>Turn right onto W Lonesome Rd</cmt>
+    </rtept>
+    <rtept lat="42.2476253" lon="-89.90046840000002">
+      <name>Right</name>
+      <cmt>Turn right onto S Kent Rd</cmt>
+    </rtept>
+    <rtept lat="42.251258" lon="-89.8991014">
+      <name>Left</name>
+      <cmt>Turn left onto W Clay Rd</cmt>
+    </rtept>
+    <rtept lat="42.2524558" lon="-89.92036769999999">
+      <name>Left</name>
+      <cmt>Turn left onto E Clay Rd (past cemetery)</cmt>
+    </rtept>
+    <rtept lat="42.2548825" lon="-89.9301089">
+      <name>Left</name>
+      <cmt>Turn left onto S Flint Rd</cmt>
+    </rtept>
+    <rtept lat="42.2366612" lon="-89.92017290000001">
+      <name>Right</name>
+      <cmt>Turn right onto E Gerke Rd</cmt>
+    </rtept>
+    <rtept lat="42.236685" lon="-89.93937629999999">
+      <name>Left</name>
+      <cmt>E Gerke Rd turns left and becomes Beyer Rd</cmt>
+    </rtept>
+    <rtept lat="42.22621204568154" lon="-89.93944094496538">
+      <name>Straight</name>
+      <cmt>*Hidden stop sign, use caution*</cmt>
+    </rtept>
+    <rtept lat="42.1963101" lon="-89.938715">
+      <name>Straight</name>
+      <cmt>Becomes Switzer Rd</cmt>
+    </rtept>
+    <rtept lat="42.1870288" lon="-89.93878219999999">
+      <name>Right</name>
+      <cmt>Turn right onto Slick Rd</cmt>
+    </rtept>
+    <rtept lat="42.18857860000001" lon="-89.95817899999997">
+      <name>Left</name>
+      <cmt>Turn left onto Skunk Hollow Rd</cmt>
+    </rtept>
+    <rtept lat="42.17417349999999" lon="-89.97157649999997">
+      <name>Right</name>
+      <cmt>Turn right onto Meyers Rd</cmt>
+    </rtept>
+    <rtept lat="42.19246589999999" lon="-89.99252619999999">
+      <name>Right</name>
+      <cmt>Turn right onto Paul/Katzenberger Rd</cmt>
+    </rtept>
+    <rtept lat="42.2163028" lon="-89.98791140000003">
+      <name>Right</name>
+      <cmt>Turn right onto Co Rd 11/A/E Loran Rd</cmt>
+    </rtept>
+    <rtept lat="42.2219864" lon="-89.97346759999999">
+      <name>Straight</name>
+      <cmt>Continue onto S Fitzsimmons Rd</cmt>
+    </rtept>
+    <rtept lat="42.230759613584915" lon="-89.97658367307793">
+      <name>Left</name>
+      <cmt>Left at Y in road to stay on Fitzsimmons. (House at Y)</cmt>
+    </rtept>
+    <rtept lat="42.2521878" lon="-89.99025310000002">
+      <name>Right</name>
+      <cmt>Turn right onto Co Rd 6/E Willow Rd</cmt>
+    </rtept>
+    <rtept lat="42.2649481" lon="-89.97400770000002">
+      <name>Left</name>
+      <cmt>Slight left onto S Curtiss Rd</cmt>
+    </rtept>
+    <rtept lat="42.2860658" lon="-89.97871680000003">
+      <name>Left</name>
+      <cmt>Turn left onto E Piroke/Parker Rd</cmt>
+    </rtept>
+    <rtept lat="42.270528" lon="-90.00756000000001">
+      <name>Right</name>
+      <cmt>Turn right onto S Ridge Rd
+(sign says Randecker)</cmt>
+    </rtept>
+    <rtept lat="42.2841169" lon="-90.00813929999998">
+      <name>Left</name>
+      <cmt>Turn left onto E Parker Rd/S Ridge Rd</cmt>
+    </rtept>
+    <rtept lat="42.2855802" lon="-90.01028859999997">
+      <name>Right</name>
+      <cmt>Turn right onto S Ridge Rd</cmt>
+    </rtept>
+    <rtept lat="42.29872300098208" lon="-90.0092899166778">
+      <name>Water</name>
+      <cmt>Checkpoint</cmt>
+    </rtept>
+    <rtept lat="42.298730000000006" lon="-90.00929000000002">
+      <name>Left</name>
+      <cmt>Turn left(West) onto E Morseville Rd</cmt>
+    </rtept>
+    <rtept lat="42.2996601" lon="-90.08456590000003">
+      <name>Right</name>
+      <cmt>Turn right onto Co Rd 10/S Massbach Rd</cmt>
+    </rtept>
+    <rtept lat="42.304434" lon="-90.07933789999998">
+      <name>Left</name>
+      <cmt>Sharp left onto S Eden Rd</cmt>
+    </rtept>
+    <rtept lat="42.31174" lon="-90.097262">
+      <name>Right</name>
+      <cmt>Turn right to stay on S Eden Rd</cmt>
+    </rtept>
+    <rtept lat="42.3293059" lon="-90.1192959">
+      <name>Left</name>
+      <cmt>Sharp left onto E Bough Rd</cmt>
+    </rtept>
+    <rtept lat="42.3201259" lon="-90.135154">
+      <name>Left</name>
+      <cmt>Sharp left onto S Brown Rd</cmt>
+    </rtept>
+    <rtept lat="42.3041733" lon="-90.14444730000002">
+      <name>Right</name>
+      <cmt>Turn right onto Co Rd 16/E Bethel Rd</cmt>
+    </rtept>
+    <rtept lat="42.31295079917772" lon="-90.18650581242969">
+      <name>Straight</name>
+      <cmt>Cross road into parking lot of vacant building. Continue till end.</cmt>
+    </rtept>
+    <rtept lat="42.313028795679976" lon="-90.18854498996654">
+      <name>Right</name>
+      <cmt>Turn right and cross highway onto S Becker Rd</cmt>
+    </rtept>
+    <rtept lat="42.34026" lon="-90.20492000000002">
+      <name>Right</name>
+      <cmt>Turn right onto S Apple River Rd</cmt>
+    </rtept>
+    <rtept lat="42.35530000000001" lon="-90.17403999999999">
+      <name>Right</name>
+      <cmt>Turn right onto S Woodbine Rd</cmt>
+    </rtept>
+    <rtept lat="42.342670000000005" lon="-90.14049999999997">
+      <name>Left</name>
+      <cmt>Turn left onto S Scout Camp Rd</cmt>
+    </rtept>
+    <rtept lat="42.36063" lon="-90.14503000000002">
+      <name>Left</name>
+      <cmt>Turn left onto E Welch Rd</cmt>
+    </rtept>
+    <rtept lat="42.36424" lon="-90.15895999999998">
+      <name>Left</name>
+      <cmt>Turn left onto S Apple River Rd (Bridge)</cmt>
+    </rtept>
+    <rtept lat="42.361580000000004" lon="-90.16636">
+      <name>Right</name>
+      <cmt>Turn right onto E Fairview Rd</cmt>
+    </rtept>
+    <rtept lat="42.36502" lon="-90.17372">
+      <name>Right</name>
+      <cmt>Turn right onto S Salem Rd</cmt>
+    </rtept>
+    <rtept lat="42.40536" lon="-90.13815">
+      <name>Right</name>
+      <cmt>Turn right onto E Schapville Rd</cmt>
+    </rtept>
+    <rtept lat="42.40626" lon="-90.13679000000002">
+      <name>Right</name>
+      <cmt>Turn right onto N Scout Camp Rd *BUSY*</cmt>
+    </rtept>
+    <rtept lat="42.402860000000004" lon="-90.13227">
+      <name>Left</name>
+      <cmt>Turn left onto E Townsend Rd</cmt>
+    </rtept>
+    <rtept lat="42.40406" lon="-90.12178">
+      <name>Left</name>
+      <cmt>Slight left onto N Broadway Rd</cmt>
+    </rtept>
+    <rtept lat="42.448510000000006" lon="-90.09270000000004">
+      <name>Right</name>
+      <cmt>Turn right onto E Canyon Rd</cmt>
+    </rtept>
+    <rtept lat="42.44811000000001" lon="-90.05227000000002">
+      <name>Left</name>
+      <cmt>Turn left onto N Canyon Park Rd</cmt>
+    </rtept>
+    <rtept lat="42.448800000000006" lon="-90.05158">
+      <name>Right</name>
+      <cmt>Slight right onto E Canyon Rd</cmt>
+    </rtept>
+    <rtept lat="42.44464000000001" lon="-90.02407">
+      <name>Right</name>
+      <cmt>Turn right onto N Fiedler Rd</cmt>
+    </rtept>
+    <rtept lat="42.44178420776792" lon="-90.02398631689454">
+      <name>Straight</name>
+      <cmt>Continue straight onto N Kupersmith Rd</cmt>
+    </rtept>
+    <rtept lat="42.41601" lon="-90.00324999999998">
+      <name>Right</name>
+      <cmt>Turn right onto N Stockton Rd</cmt>
+    </rtept>
+    <rtept lat="42.40099" lon="-90.00278000000003">
+      <name>Right</name>
+      <cmt>Turn right onto E Greenvale Rd</cmt>
+    </rtept>
+    <rtept lat="42.40088" lon="-90.02244000000002">
+      <name>Left</name>
+      <cmt>Turn left onto N Mud Rd
+(unmarked, tree lined)</cmt>
+    </rtept>
+    <rtept lat="42.389880000000005" lon="-90.02206999999999">
+      <name>Right</name>
+      <cmt>Turn right onto E Townsend Rd</cmt>
+    </rtept>
+    <rtept lat="42.389810000000004" lon="-90.03676000000002">
+      <name>Left</name>
+      <cmt>Turn left onto N Park Rd</cmt>
+    </rtept>
+    <rtept lat="42.37603" lon="-90.02004">
+      <name>Left</name>
+      <cmt>Turn left onto E Breed Rd</cmt>
+    </rtept>
+    <rtept lat="42.375980000000006" lon="-90.01664">
+      <name>Right</name>
+      <cmt>Turn right onto S Park Rd</cmt>
+    </rtept>
+    <rtept lat="42.36450000000001" lon="-90.01645000000002">
+      <name>Left</name>
+      <cmt>Turn left onto E Binkley Rd</cmt>
+    </rtept>
+    <rtept lat="42.36449" lon="-90.01168999999999">
+      <name>Right</name>
+      <cmt>Turn right onto S Park Rd</cmt>
+    </rtept>
+    <rtept lat="42.3571" lon="-90.01132999999999">
+      <name>Straight</name>
+      <cmt>Continue onto N Rush St *Busy X-ing*</cmt>
+    </rtept>
+    <rtept lat="42.35092" lon="-90.01105999999999">
+      <name>Left</name>
+      <cmt>N Rush St turns left and becomes W Benton Ave</cmt>
+    </rtept>
+    <rtept lat="42.35087" lon="-90.0068">
+      <name>Right</name>
+      <cmt>Turn right onto N Main St</cmt>
+    </rtept>
+    <rtept lat="42.348426976900875" lon="-90.0068">
+      <name>Water</name>
+      <cmt>Caseys</cmt>
+    </rtept>
+    <rtept lat="42.348411118348935" lon="-90.0068">
+      <name>Straight</name>
+      <cmt>Continue south on N Main st</cmt>
+    </rtept>
+    <rtept lat="42.34714" lon="-90.00682">
+      <name>Left</name>
+      <cmt>Turn left onto E Carpenter Ave</cmt>
+    </rtept>
+    <rtept lat="42.34667" lon="-90.00103999999999">
+      <name>Right</name>
+      <cmt>Turn right onto S Simmons St</cmt>
+    </rtept>
+    <rtept lat="42.327870000000004" lon="-90.00045">
+      <name>Left</name>
+      <cmt>Turn left onto E Airport Rd</cmt>
+    </rtept>
+    <rtept lat="42.3275" lon="-89.93226000000004">
+      <name>Right</name>
+      <cmt>Turn right onto S Gidds Rd</cmt>
+    </rtept>
+    <rtept lat="42.31291" lon="-89.9316">
+      <name>Right</name>
+      <cmt>Turn right onto E Kent School Rd</cmt>
+    </rtept>
+    <rtept lat="42.310700000000004" lon="-89.94118000000003">
+      <name>Straight</name>
+      <cmt>Continue onto E Blair Hill Rd *Busy X-ing*</cmt>
+    </rtept>
+    <rtept lat="42.31284" lon="-89.96561000000003">
+      <name>Left</name>
+      <cmt>Turn left onto S Blair Hill Rd</cmt>
+    </rtept>
+    <rtept lat="42.305510000000005" lon="-89.96530000000001">
+      <name>Right</name>
+      <cmt>Turn right onto E Morseville Rd</cmt>
+    </rtept>
+    <rtept lat="42.305640000000004" lon="-89.97942">
+      <name>Left</name>
+      <cmt>Turn left onto S Curtiss Rd</cmt>
+    </rtept>
+    <rtept lat="42.29825" lon="-89.97910999999999">
+      <name>Left</name>
+      <cmt>Turn left onto E Blackhawk Rd</cmt>
+    </rtept>
+    <rtept lat="42.294810000000005" lon="-89.87380999999999">
+      <name>Right</name>
+      <cmt>Turn right onto S Boop School Rd</cmt>
+    </rtept>
+    <rtept lat="42.2839" lon="-89.87360999999999">
+      <name>Right</name>
+      <cmt>Turn right onto W Kempel Rd</cmt>
+    </rtept>
+    <rtept lat="42.29113" lon="-89.92081000000002">
+      <name>Left</name>
+      <cmt>W Kempel Rd turns left and becomes S County Divide Rd (B-Road)</cmt>
+    </rtept>
+    <rtept lat="42.28389000000001" lon="-89.92108000000002">
+      <name>Left</name>
+      <cmt>Turn left onto S County Divide Rd/S Koeller Rd</cmt>
+    </rtept>
+    <rtept lat="42.27284" lon="-89.92083000000002">
+      <name>Left</name>
+      <cmt>Turn left onto W Hair Pin Rd</cmt>
+    </rtept>
+    <rtept lat="42.26928" lon="-89.89935000000003">
+      <name>Straight</name>
+      <cmt>Continue onto S Kent/Goldmine Rd</cmt>
+    </rtept>
+    <rtept lat="42.269180000000006" lon="-89.89411999999999">
+      <name>Right</name>
+      <cmt>Turn right to stay on S Kent Rd</cmt>
+    </rtept>
+    <rtept lat="42.265420000000006" lon="-89.89407">
+      <name>Left</name>
+      <cmt>Turn left onto W Ditzler Rd</cmt>
+    </rtept>
+    <rtept lat="42.2657" lon="-89.86175000000003">
+      <name>Right</name>
+      <cmt>Turn right onto S Koch Rd</cmt>
+    </rtept>
+    <rtept lat="42.26352000000001" lon="-89.86169000000001">
+      <name>Left</name>
+      <cmt>Turn left onto W Walgren Rd</cmt>
+    </rtept>
+    <rtept lat="42.263630000000006" lon="-89.84600999999998">
+      <name>Right</name>
+      <cmt>Turn right onto S Lott Rd</cmt>
+    </rtept>
+    <rtept lat="42.25999" lon="-89.84571">
+      <name>Left</name>
+      <cmt>Turn left onto W Walgren Rd</cmt>
+    </rtept>
+    <rtept lat="42.2601" lon="-89.82609000000002">
+      <name>Right</name>
+      <cmt>Turn right onto IL-73 S *busy*</cmt>
+    </rtept>
+    <rtept lat="42.256510000000006" lon="-89.82604000000003">
+      <name>Left</name>
+      <cmt>Turn left onto W Block Rd</cmt>
+    </rtept>
+    <rtept lat="42.256260000000005" lon="-89.77340000000004">
+      <name>Right</name>
+      <cmt>Turn right onto S Mill Grove Rd</cmt>
+    </rtept>
+    <rtept lat="42.246680000000005" lon="-89.77699000000001">
+      <name>Left</name>
+      <cmt>Turn left onto W Loran Rd</cmt>
+    </rtept>
+    <rtept lat="42.245760000000004" lon="-89.72221000000002">
+      <name>Left</name>
+      <cmt>Turn left onto S Bolton Rd</cmt>
+    </rtept>
+    <rtept lat="42.24947" lon="-89.71815000000004">
+      <name>Right</name>
+      <cmt>Turn right onto S Van Brocklin Rd</cmt>
+    </rtept>
+    <rtept lat="42.268800000000006" lon="-89.69448">
+      <name>Straight</name>
+      <cmt>Continue onto W Forest Rd</cmt>
+    </rtept>
+    <rtept lat="42.27215" lon="-89.66381000000001">
+      <name>Right</name>
+      <cmt>Turn right onto W Fairgrounds Rd</cmt>
+    </rtept>
+    <rtept lat="42.26845" lon="-89.65214000000003">
+      <name>Left</name>
+      <cmt>Turn left onto S Park Rd</cmt>
+    </rtept>
+    <rtept lat="42.27131" lon="-89.652">
+      <name>Generic</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>

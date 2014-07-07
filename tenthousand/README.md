@@ -1,0 +1,1 @@
+The Ten Thousand route, created by [Axeltree](http://rideaxletree.com/). Route details are posted on the [event page](http://ridetenthousand.com/?p=110) and GPX tracks can be found on [ridewithgps](http://ridewithgps.com/routes/3537117) and here for prosperity.
